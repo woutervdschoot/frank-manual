@@ -10,6 +10,7 @@ Below you see the table of contents of the Frank!Manual:
 .. toctree::
    :maxdepth: 2
     
+	DemoSection
    gettingStarted/gettingStarted
    operator/operator
    testing/testing
